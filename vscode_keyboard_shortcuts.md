@@ -43,3 +43,10 @@ Ctrl + Shift + H - Global Replace
 
 
 Ctrl + Shift + K - Delete line
+
+F5 - Start Debugging
+F10 - Step over
+F11 - Step into
+Shift + F11 - Step out
+Ctrl + Shift + F5 - Restart of Debugging
+Shift + F5 - Stop of Debugging
