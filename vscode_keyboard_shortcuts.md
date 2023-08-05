@@ -1,9 +1,9 @@
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 https://code.visualstudio.com/docs/editor/codebasics#:~:text=Ctrl%2BD%20selects%20the%20word,of%20the%20current%20selected%20text.
 
-Shift + Alt + F - Code Formatting
+`Shift + Alt + F` - Code Formatting
 
-Alt + Scroll - Fast scrolling
+`Alt + Scroll` - Fast scrolling
 
 Ctrl + J - Show integrated terminal
 
@@ -42,11 +42,17 @@ Alt + Enter - Select all results of a find operation
 Ctrl + Shift + H - Global Replace
 
 
-Ctrl + Shift + K - Delete line
+Ctrl + Shift + K - Delete line    
 
-F5 - Start Debugging
-F10 - Step over
-F11 - Step into
-Shift + F11 - Step out
-Ctrl + Shift + F5 - Restart of Debugging
-Shift + F5 - Stop of Debugging
+<details>
+  <summary>Debugging</summary>
+
+  F5 - Start Debugging   
+  F10 - Step over    
+  F11 - Step into    
+  Shift + F11 - Step out   
+  Ctrl + Shift + F5 - Restart of Debugging   
+  Shift + F5 - Stop of Debugging 
+  
+</details>
+
