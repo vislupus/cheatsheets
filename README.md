@@ -1,8 +1,8 @@
 # 🚀 Useful Keyboard Shortcuts, Python Commands, and Regex Templates
-<p align="center">
-  <img src="https://img.shields.io/github/stars/vislupus/cheatsheets.svg?style=flat-square" alt="Repository Stars" />
-  <img src="https://img.shields.io/github/license/vislupus/cheatsheets.svg?style=flat-square" alt="License" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/github/stars/vislupus/cheatsheets?style=flat-square" alt="Repository Stars" />
+  <img src="https://img.shields.io/github/license/vislupus/cheatsheets?style=flat-square" alt="Language" />
+</div>
 
 Welcome to a collection of handy cheatsheets that can turbocharge your productivity and streamline your workflow. Whether you're navigating your code editor, harnessing the power of Python, or mastering regular expressions, these resources have you covered.
 
