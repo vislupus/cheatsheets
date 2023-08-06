@@ -1,19 +1,19 @@
 https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 https://code.visualstudio.com/docs/editor/codebasics#:~:text=Ctrl%2BD%20selects%20the%20word,of%20the%20current%20selected%20text.
 
-`Shift + Alt + F` - Code Formatting
+`Shift` + `Alt` + `F` - Code Formatting
 
-`Alt + Scroll` - Fast scrolling
+`Alt` + `Scroll` - Fast scrolling
 
-Ctrl + J - Show integrated terminal
+`Ctrl` + `J` - Show integrated terminal
 
-Ctrl + , - Opening settings
-Ctrl + Shift + P - Command Palette
+`Ctrl` + `,` - Opening settings     
 
-Ctrl + Shift + P  -> Reload Window  - hot reload for theme/extension
+`Ctrl` + `Shift` + `P` - Command Palette    
+`Ctrl` + `Shift` + `P`  -> Reload Window  - hot reload for theme/extension
 
-Ctrl + Shift + [ - Fold (collapse) region
-Ctrl + Shift + ] - Unfold (uncollapse) region
+`Ctrl` + `Shift` + `[` - Fold (collapse) region     
+`Ctrl` + `Shift` + `]` - Unfold (uncollapse) region
 
 Ctrl + \ - Side by side editing
 
@@ -44,15 +44,10 @@ Ctrl + Shift + H - Global Replace
 
 Ctrl + Shift + K - Delete line    
 
-<details>
-  <summary>Debugging</summary>
-
-  F5 - Start Debugging   
-  F10 - Step over    
-  F11 - Step into    
-  Shift + F11 - Step out   
-  Ctrl + Shift + F5 - Restart of Debugging   
-  Shift + F5 - Stop of Debugging 
-  
-</details>
+`F5` - Start Debugging   
+F10 - Step over   
+F11 - Step into    
+Shift + F11 - Step out    
+Ctrl + Shift + F5 - Restart of Debugging     
+Shift + F5 - Stop of Debugging    
 
