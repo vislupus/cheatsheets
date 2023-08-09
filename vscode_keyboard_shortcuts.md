@@ -1,5 +1,5 @@
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-https://code.visualstudio.com/docs/editor/codebasics#:~:text=Ctrl%2BD%20selects%20the%20word,of%20the%20current%20selected%20text.
+[keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)     
+[Basic Editing](https://code.visualstudio.com/docs/editor/codebasics)
 
 `Shift` + `Alt` + `F` - Code Formatting
 
@@ -45,9 +45,9 @@ https://code.visualstudio.com/docs/editor/codebasics#:~:text=Ctrl%2BD%20selects%
 `Ctrl` + `Shift` + `K` - Delete line    
 
 `F5` - Start Debugging   
-F10 - Step over   
-F11 - Step into    
-Shift + F11 - Step out    
-Ctrl + Shift + F5 - Restart of Debugging     
-Shift + F5 - Stop of Debugging    
+`F10` - Step over   
+`F11` - Step into    
+`Shift` + `F11` - Step out    
+`Ctrl` + `Shift` + `F5` - Restart of Debugging     
+`Shift` + `F5` - Stop of Debugging    
 
