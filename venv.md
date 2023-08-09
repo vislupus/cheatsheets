@@ -1,5 +1,5 @@
-where python
-python --version
+`where python`    
+`python --version`
 
 where pip
 pip --version
