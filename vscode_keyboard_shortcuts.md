@@ -23,26 +23,26 @@ https://code.visualstudio.com/docs/editor/codebasics#:~:text=Ctrl%2BD%20selects%
 `Ctrl` + `Alt` + `Up/Down` - Multi-Select Cursor   
 `Ctrl` + `Shift` + `Left/Right` - Select text word by word   
 
-`Ctrl` + `D` - Select the next occurring of the word
-`Ctrl` + `U` - Unselected the last occurring of the word
+`Ctrl` + `D` - Select the next occurring of the word   
+`Ctrl` + `U` - Unselected the last occurring of the word   
 
-`Ctrl` + `G` - Navigate to a specific line
+`Ctrl` + `G` - Navigate to a specific line   
 
-`Alt` + `Up/Down` - Move line Up/Down
+`Alt` + `Up/Down` - Move line Up/Down   
 
-`Shift` + `Alt` + `Up/Down` - Copy line up / down
+`Shift` + `Alt` + `Up/Down` - Copy line up / down   
 
-Ctrl+]/[ - Indent/outdent line
+`Ctrl` + `]/[` - Indent/outdent line   
 
-Ctrl + . - Quick Fix
-
-
-Ctrl + Shift + F - Global Find
-Alt + Enter - Select all results of a find operation
-Ctrl + Shift + H - Global Replace
+`Ctrl` + `.` - Quick Fix   
 
 
-Ctrl + Shift + K - Delete line    
+`Ctrl` + `Shift` + `F` - Global Find    
+`Alt` + `Enter` - Select all results of a find operation    
+`Ctrl` + `Shift` + `H` - Global Replace    
+
+
+`Ctrl` + `Shift` + `K` - Delete line    
 
 `F5` - Start Debugging   
 F10 - Step over   
