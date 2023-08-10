@@ -1,8 +1,8 @@
 `where python`    
 `python --version`
 
-where pip
-pip --version
+`where pip`
+`pip --version`
 
 
 mkdir python-project
