@@ -1,7 +1,7 @@
 `where python`    
 `python --version`
 
-`where pip`
+`where pip`   
 `pip --version`
 
 
