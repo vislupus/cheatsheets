@@ -1,7 +1,8 @@
 [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)     
 [Basic Editing](https://code.visualstudio.com/docs/editor/codebasics)
 
-`Shift` + `Alt` + `F` - Code Formatting
+`Shift` + `Alt` + `F` - Format Document  
+`Shift` + `Alt` + `B` - Format Selection (not default)
 
 `Alt` + `Scroll` - Fast scrolling
 
