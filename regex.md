@@ -1,8 +1,8 @@
-https://www.rexegg.com/regex-quickstart.html
+[Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
 
 
-[.\s]{2,}+(\d{1,})$
-[.\s]{2,}+(\d{1,})–\d{1,}$
+`[.\s]{2,}+(\d{1,})$`
+`[.\s]{2,}+(\d{1,})–\d{1,}$`
 
 \s+(\d{1,})$
 
@@ -30,7 +30,7 @@ shutterstock[A-z А-я--–_.,()\[\]{}';!@#%$^&-+=`~]*?\_(\d+)[A-z А-я--–_.,
 <option[^>]+value="([^"]+)"[^>]*>.*
 
 
-[+-]?\d+(?:\.\d+)? - всички цифри
+`[+-]?\d+(?:\.\d+)?` - всички цифри   
 [+-]?(\d+(\.\d+)?|\.\d+)([eE][+-]?\d+)? - всички цифри
 pad[dt]ing - хваща padding и padting
 pad(t|d) - всичко което има padd или padt
