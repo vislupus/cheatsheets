@@ -5,8 +5,8 @@
 `pip --version`
 
 
-mkdir python-project
-cd python-project
+`mkdir python-project`    
+`cd python-project`
 
 
 python -m venv venv && source venv/Scripts/activate
