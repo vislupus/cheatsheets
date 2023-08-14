@@ -1,5 +1,5 @@
-django-admin --version
-django-admin startproject start_test
+`django-admin --version`   
+`django-admin startproject start_test`   
 cd .\my_tennis_club
 cd ..\
 python manage.py runserver
