@@ -1,10 +1,10 @@
 [Regex Cheat Sheet](https://www.rexegg.com/regex-quickstart.html)
 
 
-`[.\s]{2,}+(\d{1,})$`
+`[.\s]{2,}+(\d{1,})$`    
 `[.\s]{2,}+(\d{1,})–\d{1,}$`
 
-\s+(\d{1,})$
+`\s+(\d{1,})$`
 
 \s(\d{1,3})$ ---> @\1
 
