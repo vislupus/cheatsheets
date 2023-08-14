@@ -9,8 +9,8 @@
 `cd python-project`
 
 
-python -m venv venv && source venv/Scripts/activate
-python -m venv venv && .\venv\Scripts\activate
+`python -m venv venv && source venv/Scripts/activate`   
+`python -m venv venv && .\venv\Scripts\activate`
 
 python -m venv venv
 python -m venv ./
