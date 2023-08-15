@@ -9,6 +9,7 @@
 `Ctrl` + `J` - Show integrated terminal
 
 `Ctrl` + `,` - Opening settings     
+`Ctrl` + `B` - Toggle Sidebar visibility
 
 `Ctrl` + `Shift` + `P` - Command Palette    
 `Ctrl` + `Shift` + `P`  -> Reload Window  - hot reload for theme/extension
