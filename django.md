@@ -1,15 +1,16 @@
 `django-admin --version`   
-`django-admin startproject start_test`   
-`cd .\my_tennis_club`   
+`django-admin startproject <project_name>`   
+`cd .\<project_name>`   
 `cd ..\`   
 python manage.py runserver
-python manage.py startapp members
+python manage.py startapp <app_name>
 python manage.py migrate
-python manage.py makemigrations members
+python manage.py makemigrations <app_name>
 python manage.py sqlmigrate members 0001
 
 python manage.py shell
 
+```python
 from projects.models import Project
 
 p1 = Project(
@@ -35,6 +36,7 @@ p3 = Project(
     image='img/project3.png'
 )
 p3.save()
+```
 
 python manage.py createsuperuser
 
