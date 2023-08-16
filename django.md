@@ -1,7 +1,7 @@
 `django-admin --version`   
 `django-admin startproject start_test`   
-cd .\my_tennis_club
-cd ..\
+`cd .\my_tennis_club`   
+`cd ..\`   
 python manage.py runserver
 python manage.py startapp members
 python manage.py migrate
