@@ -15,8 +15,8 @@
 `python -m venv venv`   
 `python -m venv ./`
 
-venv\Scripts\activate
-venv\Scripts\activate.bat
+`venv\Scripts\activate`    
+`venv\Scripts\activate.bat`
 
 python -m pip install Django
 django-admin --version
