@@ -8,19 +8,21 @@
 [Modern SQL](https://modern-sql.com/)    
 
 ```sql
-SET @list = '0,1,2,3,4';
-```      
+SET @list = '0,1,2,3,4';      
 SELECT @list, FIND_IN_SET('1', @list)
 SET @list = (SELECT GROUP_CONCAT(id) FROM titanic);
 SELECT @list
+```
 
--- CREATE TABLE
+# CREATE TABLE
+```sql
 CREATE TABLE stocks (
 datea TEXT, 
 trans TEXT, 
 symbol TEXT, 
 qty REAL, 
 price REAL)
+``` 
 
 -- INSERT
 INSERT INTO stocks VALUES ('2006-01-05', 'BUY', 'RHAT', 100, 35.14)
