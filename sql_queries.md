@@ -1,11 +1,11 @@
 [MySQL Tutorial](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/)    
 [String Functions and Operators](https://dev.mysql.com/doc/refman/8.0/en/string-functions.html)    
 [MySQL Basics](https://www.mysqltutorial.org/mysql-basics/)    
-[](https://www.guru99.com/mysql-tutorial.html)   
-[](https://www.w3schools.com/MySQL/default.asp)   
-[](https://www.javatpoint.com/mysql-create-table)   
-[](https://learnsql.com/cookbook/)   
-[](https://modern-sql.com/)    
+[MySQL Tutorial for Beginners](https://www.guru99.com/mysql-tutorial.html)    
+[MySQL Tutorial](https://www.w3schools.com/MySQL/default.asp)   
+[MySQL Tutorial](https://www.javatpoint.com/mysql-tutorial)   
+[LearnSQL](https://learnsql.com/cookbook/)   
+[Modern SQL](https://modern-sql.com/)    
 
 SET @list = '0,1,2,3,4';
 SELECT @list, FIND_IN_SET('1', @list)
