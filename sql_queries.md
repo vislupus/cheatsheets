@@ -7,7 +7,9 @@
 [LearnSQL](https://learnsql.com/cookbook/)   
 [Modern SQL](https://modern-sql.com/)    
 
+```sql
 SET @list = '0,1,2,3,4';
+```      
 SELECT @list, FIND_IN_SET('1', @list)
 SET @list = (SELECT GROUP_CONCAT(id) FROM titanic);
 SELECT @list
