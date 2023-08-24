@@ -1,6 +1,8 @@
 `django-admin --version`   
 
 `django-admin startproject <project_name>`  
+`django-admin startproject <project_name> .`  
+
 `python manage.py startapp <app_name>`
 
 `cd .\<project_name>`   
@@ -8,8 +10,9 @@
 
 `python manage.py runserver`
 
-python manage.py migrate
-python manage.py makemigrations <app_name>
+python manage.py makemigrations <app_name> - make new migrations     
+python manage.py migrate - apply the changes from the models to the database     
+
 python manage.py sqlmigrate members 0001
 
 python manage.py shell
