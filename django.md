@@ -12,8 +12,8 @@
 
 python manage.py makemigrations <app_name> - make new migrations     
 python manage.py migrate - apply the changes from the models to the database     
-
-python manage.py sqlmigrate members 0001
+python manage.py sqlmigrate <app_name> 0001 - output sql code     
+python manage.py showmigrations - list the project migrations and their status    
 
 python manage.py shell
 
