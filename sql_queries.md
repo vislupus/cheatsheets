@@ -24,9 +24,11 @@ qty REAL,
 price REAL)
 ``` 
 
--- INSERT
+# INSERT
+```sql
 INSERT INTO stocks VALUES ('2006-01-05', 'BUY', 'RHAT', 100, 35.14)
 INSERT IGNORE INTO stocks VALUES ('2006-01-05', 'BUY', 'RHAT', 100, 35.14)
+``` 
 
 -- UPDATE
 UPDATE stocks SET price = 99.99 WHERE qty = 100.0
