@@ -16,12 +16,7 @@ SELECT @list
 
 # CREATE TABLE
 ```sql
-CREATE TABLE stocks (
-datea TEXT, 
-trans TEXT, 
-symbol TEXT, 
-qty REAL, 
-price REAL)
+CREATE TABLE stocks (datea TEXT, trans TEXT, symbol TEXT, qty REAL, price REAL)
 ``` 
 
 # INSERT
