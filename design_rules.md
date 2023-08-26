@@ -14,11 +14,17 @@ Avoid center-aligning long paragraphs, as it can slow down reading speed. For an
 4. Considerations for Text Width: 
 Based on a study by The Baymard Institute, long lines of text can overwhelm users, leading to less engagement and lower conversions. A good range to maintain is 50 to 75 characters for body text, with around 600 pixels width for a desktop screen.
 
-5. Hierarchy: 
+### 5. Hierarchy: 
 Avoid overusing text sizes to indicate hierarchy. Try to stick to two different font sizes, using font weight and color changes for hierarchy. 
 
-6. Spacing:
+### 6. Spacing:
 Consider the space between text elements; elements with closer relationships should be positioned closer. Use multipliers to maintain consistent spacing between elements.  
 **Example:** between title and paragraph 1 em but between previews paragraph and title should be 2 em
+
+### 7. 60-30-10 Color Rule:
+[60-30-10 Color Rule](https://www.youtube.com/watch?v=UWwNIMHFdW4)   
+The 60-30-10 rule is a guideline for using color in UI design. The rule suggests that you use 60% of a neutral or base color, 30% of a primary color, and 10% of a secondary color. The secondary color is typically a call-to-action color that draws attention to important elements in the design. However, it is important to note that this rule is not strict and can be broken if necessary. The primary color is important but not as important as the call-to-action color, which should be used sparingly.
+
+
 
  
