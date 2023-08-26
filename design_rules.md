@@ -1,3 +1,7 @@
+[Become a UX/UI Designer in 2023](https://www.youtube.com/watch?v=-KFNFr1KVKs)      
+[world's shortest UI/UX design course](https://www.youtube.com/watch?v=wIuVvCuiJhU)     
+
+
 [6 UI Hacks I Wish I Knew As A Beginner](https://www.youtube.com/watch?v=88XxC0_zs74)    
 
 1. Importance of Line Height in Typography: 
