@@ -99,4 +99,3 @@ print(f"{number} {number:.<25} {number}")
 print(f"{number} {number:^25} {number}")
 # 123            123            123 
 # 1             1             1
-
