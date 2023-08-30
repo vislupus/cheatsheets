@@ -1,9 +1,9 @@
-|-main
-|--site - може и без него
-|---templates
-|----index.html
-|---input.py
-|--virtual
+|-main    
+|--site - може и без него     
+|---templates    
+|----index.html    
+|---input.py    
+|--virtual    
 
 cd C:\Users\Nikola\Desktop\flask_csv_to_geojson
 
