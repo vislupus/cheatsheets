@@ -1,4 +1,4 @@
-https://traviswimer.com/blog/github-search-cheatsheet/
+[GitHub Search Cheatsheet](https://traviswimer.com/blog/github-search-cheatsheet/)     
 
 (softuni in:name OR softuni in:description) language:Python
 
