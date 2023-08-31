@@ -15,7 +15,7 @@ Adjusting the space between characters, known as letter spacing, can enhance the
 3. Proper Text Alignment is Essential: 
 Avoid center-aligning long paragraphs, as it can slow down reading speed. For anything that spans more than three lines of text, left alignment is recommended. Also, avoid mixing alignments between headings and body text.
 
-4. Considerations for Text Width: 
+### 4. Considerations for Text Width: 
 Based on a study by The Baymard Institute, long lines of text can overwhelm users, leading to less engagement and lower conversions. A good range to maintain is 50 to 75 characters for body text, with around 600 pixels width for a desktop screen.
 
 ### 5. Hierarchy: 
