@@ -4,11 +4,11 @@
 
 [6 UI Hacks I Wish I Knew As A Beginner](https://www.youtube.com/watch?v=88XxC0_zs74)    
 
-1. Importance of Line Height in Typography: 
+### 1. Importance of Line Height in Typography: 
 Good design involves appropriate line height, with the recommended range being 1.1 to 1.3 times the text size for headings and 1.3 to 1.5 times for body text. This improves readability and the overall aesthetic of the design.    
 **Example:** 24*1.3 // 24*120%
 
-2. Letter Spacing Makes a Difference: 
+### 2. Letter Spacing Makes a Difference: 
 Adjusting the space between characters, known as letter spacing, can enhance the design. Negative letter spacing is suggested for headings to add a certain crispness but should be avoided for body text to maintain readability.    
 **Example:** between -1% to -2% on title and less on paragraphs on some cases even below -1%
 
