@@ -12,7 +12,7 @@ Good design involves appropriate line height, with the recommended range being 1
 Adjusting the space between characters, known as letter spacing, can enhance the design. Negative letter spacing is suggested for headings to add a certain crispness but should be avoided for body text to maintain readability.    
 **Example:** between -1% to -2% on title and less on paragraphs on some cases even below -1%
 
-3. Proper Text Alignment is Essential: 
+### 3. Proper Text Alignment is Essential: 
 Avoid center-aligning long paragraphs, as it can slow down reading speed. For anything that spans more than three lines of text, left alignment is recommended. Also, avoid mixing alignments between headings and body text.
 
 ### 4. Considerations for Text Width: 
