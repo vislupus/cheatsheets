@@ -1,8 +1,8 @@
 [GitHub Search Cheatsheet](https://traviswimer.com/blog/github-search-cheatsheet/)     
 
-(softuni in:name OR softuni in:description) language:Python
+`(softuni in:name OR softuni in:description) language:Python`
 
-softuni in:topics language:Python
+`softuni in:topics language:Python`
 
 youtube user:MitkoVtori
 
