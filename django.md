@@ -10,7 +10,7 @@
 
 `python manage.py runserver`
 
-python manage.py makemigrations <app_name> - make migrations based on the changes that you made to the models     
+`python manage.py makemigrations <app_name>` - make migrations based on the changes that you made to the models     
 python manage.py migrate - apply the changes from the models to the database     
 python manage.py sqlmigrate <app_name> 0001 - view the generated SQL based on the model     
 python manage.py showmigrations - list all migrations and their status in the project    
