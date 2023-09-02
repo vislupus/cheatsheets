@@ -1,7 +1,7 @@
 [PyCharm Key Combinations](https://keycombiner.com/collections/pycharm/)    
 [120 Shortcuts for JetBrains PyCharm](https://shortcutworld.com/PyCharm/win/JetBrains-PyCharm_Shortcuts)
 
-Ctrl + Alt + I - Auto-indent
+`Ctrl` + `Alt` + `I` - Auto-indent
 
 Ctrl + Alt + L - Reformat Code Fragment﻿
 Ctrl + Alt + Shift + L - Reformat Code
