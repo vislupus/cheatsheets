@@ -4,7 +4,7 @@
 
 `softuni in:topics language:Python`
 
-youtube user:MitkoVtori
+`youtube user:MitkoVtori`
 
 youtube repo:ZhekoGinev/SoftUni (path:*.txt OR path:*.md)
 
