@@ -4,9 +4,9 @@
 `Ctrl` + `Alt` + `I` - Auto-indent
 
 `Ctrl` + `Alt` + `L` - Reformat Code Fragment﻿
-Ctrl + Alt + Shift + L - Reformat Code
+`Ctrl` + `Alt` + `Shift` + `L` - Reformat Code
 
-Ctrl + Alt + O - Optimizes your imported packages, remove the unused ones
+`Ctrl` + `Alt` + `O` - Optimizes your imported packages, remove the unused ones
 
 Ctrl + Shift + F - Search in files
 Ctrl + F7 - Find Usages in File
