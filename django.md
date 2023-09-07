@@ -15,7 +15,7 @@
 `python manage.py sqlmigrate <app_name> 0001` - view the generated SQL based on the model     
 `python manage.py showmigrations` - list all migrations and their status in the project    
 
-python manage.py shell
+`python manage.py shell`
 
 ```python
 from projects.models import Project
