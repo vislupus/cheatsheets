@@ -45,6 +45,6 @@ p3 = Project(
 p3.save()
 ```
 
-python manage.py createsuperuser
+`python manage.py createsuperuser`    
 
-python manage.py collectstatic
+`python manage.py collectstatic`
