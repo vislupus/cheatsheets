@@ -25,13 +25,17 @@ INSERT INTO stocks VALUES ('2006-01-05', 'BUY', 'RHAT', 100, 35.14)
 INSERT IGNORE INTO stocks VALUES ('2006-01-05', 'BUY', 'RHAT', 100, 35.14)
 ``` 
 
--- UPDATE
+# UPDATE
+```sql
 UPDATE stocks SET price = 99.99 WHERE qty = 100.0
 UPDATE stocks SET countryLabel = 'Italy' WHERE id = 17
+``` 
 
--- DELETE
+# DELETE
+```sql
 DELETE FROM stocks WHERE price = 99.99
 DELETE FROM stocks -- изтриване на всичко
+``` 
 
 -- Delete columns
 ALTER TABLE test
