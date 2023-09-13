@@ -6,7 +6,8 @@
 
 `Alt` + `Scroll` - Fast scrolling
 
-`Ctrl` + `J` - Show integrated terminal
+`Ctrl` + `J` - Show integrated terminal     
+`Ctrl` + `Shift` + `` ` `` - Terminal: Create New Terminal
 
 `Ctrl` + `,` - Opening settings     
 `Ctrl` + `B` - Toggle Sidebar visibility
