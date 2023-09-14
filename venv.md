@@ -59,12 +59,3 @@ pipreqs .\my_tennis_club --savepath=requirements.in && pip-compile
 
 python -m pip install pigar
 pigar gen -f .\my_tennis_club
-
-
-
-
-/////////////////////////////////////////
-start the project local_library
-registering the catalog application
-update settings.py
-update skeleton
