@@ -19,22 +19,6 @@
 `venv\Scripts\activate.bat`
 
 python -m pip install Django
-django-admin --version
-django-admin startproject start_test
-cd .\my_tennis_club
-cd ..\
-python manage.py runserver   
-python manage.py startapp members   
-`python manage.py makemigrations members` - create a migration file   
-`python manage.py migrate members` - apply the migrations set out in the migrations file and create database   
-python manage.py sqlmigrate members 0001
-
-python manage.py shell
-
-python manage.py createsuperuser
-
-python manage.py collectstatic
-
 python -m pip install pyqt6
 python -m pip install autopep8
 python -m pip install numpy
