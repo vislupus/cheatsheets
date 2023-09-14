@@ -18,9 +18,9 @@
 `venv\Scripts\activate`    
 `venv\Scripts\activate.bat`
 
-python -m pip install Django
-python -m pip install pyqt6
-python -m pip install autopep8
+`python -m pip install Django`  
+`python -m pip install pyqt6`   
+`python -m pip install autopep8` 
 python -m pip install numpy
 python -m pip install beautifulsoup4
 python -m pip install pandas
