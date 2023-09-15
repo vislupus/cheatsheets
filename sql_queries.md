@@ -39,8 +39,7 @@ DELETE FROM stocks -- изтриване на всичко
 
 # Delete columns
 ```sql
-ALTER TABLE test
-DROP COLUMN start_date, DROP COLUMN end_date;
+ALTER TABLE test DROP COLUMN start_date, DROP COLUMN end_date;
 ``` 
 
 -- Add columns
