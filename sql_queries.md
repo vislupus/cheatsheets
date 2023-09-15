@@ -37,9 +37,10 @@ DELETE FROM stocks WHERE price = 99.99
 DELETE FROM stocks -- изтриване на всичко
 ``` 
 
--- Delete columns
-ALTER TABLE test
-DROP COLUMN start_date, DROP COLUMN end_date;
+# Delete columns
+```sql
+ALTER TABLE test DROP COLUMN start_date, DROP COLUMN end_date;
+``` 
 
 -- Add columns
 ALTER TABLE test ADD COLUMN new_col INT NOT NULL AFTER val;
