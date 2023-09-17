@@ -20,13 +20,13 @@
 
 `python -m pip install Django`  
 `python -m pip install pyqt6`   
-`python -m pip install autopep8` 
-python -m pip install numpy
-python -m pip install beautifulsoup4
-python -m pip install pandas
-python -m pip install requests
-python -m pip install hvplot jupyterlab matplotlib seaborn numpy
-python -m pip install matplotlib
+`python -m pip install autopep8`    
+`python -m pip install numpy`     
+`python -m pip install beautifulsoup4`    
+`python -m pip install pandas`    
+`python -m pip install requests`    
+`python -m pip install hvplot jupyterlab matplotlib seaborn numpy`    
+`python -m pip install matplotlib`   
 
 python -m pip install jupyterlab
 jupyter-lab
