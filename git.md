@@ -3,10 +3,10 @@
 `git config --global user.email "sarah.smith@email.com"`     
 `git config --global core.editor "nano"`
 
-git config --global alias.co commit - **git co** instead of **git commit**
+`git config --global alias.co commit` - **git co** instead of **git commit**
 
-git config user.name
-git config --list
+`git config user.name`    
+`git config --list`
 
 /////////////////////////////////////////
 
