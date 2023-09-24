@@ -6,6 +6,8 @@
 
 `Alt` + `Scroll` - Fast scrolling
 
+`Ctrl` + `Space` - Trigger Suggest
+
 `Ctrl` + `J` - Show integrated terminal     
 `Ctrl` + `Shift` + `` ` `` - Terminal: Create New Terminal
 
@@ -29,6 +31,7 @@
 `Ctrl` + `D` - Select the next occurring of the word   
 `Ctrl` + `U` - Unselected the last occurring of the word   
 `Ctrl` + `F2` - Select all occurrences of current word   
+`Ctrl` + `Shift` + `l` - Select all occurrences of current word    
 
 
 `Ctrl` + `G` - Navigate to a specific line   
