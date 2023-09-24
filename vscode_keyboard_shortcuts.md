@@ -1,14 +1,21 @@
 [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)     
 [Basic Editing](https://code.visualstudio.com/docs/editor/codebasics)
+[Key Bindings for Visual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 `Shift` + `Alt` + `F` - Format Document  
 `Shift` + `Alt` + `B` - Format Selection (not default)
 
 `Alt` + `Scroll` - Fast scrolling
 
-`Ctrl` + `Space` - Trigger Suggest
+`Ctrl` + `Space` - Trigger Suggest     
+
+`F2` - Rename symbol       
+`Ctrl` + `Shift` + `R` - Refactoring    
+
+`Ctrl` + `Shift` + `V` - Open markdown preview    
 
 `Ctrl` + `J` - Show integrated terminal     
+`Ctrl` + `` ` `` - Show integrated terminal     
 `Ctrl` + `Shift` + `` ` `` - Terminal: Create New Terminal
 
 `Ctrl` + `,` - Opening settings     
