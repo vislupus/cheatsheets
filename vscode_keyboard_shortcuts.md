@@ -1,5 +1,5 @@
 [keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)     
-[Basic Editing](https://code.visualstudio.com/docs/editor/codebasics)
+[Basic Editing](https://code.visualstudio.com/docs/editor/codebasics)          
 [Key Bindings for Visual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 
 `Shift` + `Alt` + `F` - Format Document  
