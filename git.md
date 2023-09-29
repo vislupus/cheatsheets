@@ -10,7 +10,7 @@
 
 /////////////////////////////////////////
 
-git clone https://github.com/vislupus/flask_csv_to_geojson.git
+`git clone <repository link>`
 
 /////////////////////////////////////////
 
