@@ -48,3 +48,8 @@ p3.save()
 `python manage.py createsuperuser`    
 
 `python manage.py collectstatic`
+
+
+
+https://docs.djangoproject.com/en/4.2/topics/http/urls/     
+https://docs.djangoproject.com/en/3.1/topics/http/urls/#path-converters     
