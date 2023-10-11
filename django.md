@@ -52,4 +52,4 @@ p3.save()
 
 
 https://docs.djangoproject.com/en/4.2/topics/http/urls/     
-https://docs.djangoproject.com/en/3.1/topics/http/urls/#path-converters     
+https://docs.djangoproject.com/en/4.2/topics/http/urls/#path-converters     
