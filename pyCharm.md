@@ -11,10 +11,10 @@
 `Ctrl` + `Shift` + `F` - Search in files    
 `Ctrl` + `F7` - Find Usages in File
 
-F3 - Find Next
-Shift + F3 - Find Previous
+`F3` - Find Next    
+`Shift` + `F3` - Find Previous   
 
-Shift + F6 - Rename variable
+`Shift` + `F6` - Rename variable   
 
 Ctrl + Shift + Up/Down - Move up/down
 
