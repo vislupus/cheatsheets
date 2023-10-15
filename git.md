@@ -14,11 +14,11 @@
 
 /////////////////////////////////////////
 
-git pull origin master
+`git pull origin master`
 
-git init
+`git init`
 
-git add .
+`git add .`
 
 git commit -m "first commit"
 git commit -am "first commit" - изпраща променените файлове за запис с една команда
