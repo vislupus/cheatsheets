@@ -21,7 +21,7 @@
 `git add .`
 
 `git commit -m "first commit"`    
-`git commit -am "first commit"` - изпраща променените файлове за запис с една команда
+`git commit -am "first commit"` - изпраща променените файлове за запис с една команда      
 `git commit --amend -m "first commit"` - променя съдържанието на записа      
 
 git push
