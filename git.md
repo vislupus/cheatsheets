@@ -24,9 +24,9 @@
 `git commit -am "first commit"` - изпраща променените файлове за запис с една команда      
 `git commit --amend -m "first commit"` - променя съдържанието на записа      
 
-git push
-git push --set-upstream-to origin new_branch - създава новият клон в хранилището и добавя файловете
-git push -u origin new_branch
+`git push`      
+`git push --set-upstream-to origin new_branch` - създава новият клон в хранилището и добавя файловете      
+`git push -u origin new_branch`      
 
 /////////////////////////////////////////
 
