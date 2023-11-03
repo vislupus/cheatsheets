@@ -12,8 +12,8 @@
 
 `git clone <repository link>`
 
-`git remote add origin <repository link>` - когато вече съществува
-`git fetch`
+`git remote add origin <repository link>` - когато вече съществува    
+`git fetch`    
 `git checkout <branc>`
 
 /////////////////////////////////////////
