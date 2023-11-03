@@ -12,6 +12,10 @@
 
 `git clone <repository link>`
 
+`git remote add origin <repository link>` - когато вече съществува
+`git fetch`
+`git checkout <branc>`
+
 /////////////////////////////////////////
 
 `git pull origin master`
@@ -51,7 +55,7 @@ git show 12acf567 --color-words
 /////////////////////////////////////////
 
 git branch new_branch - създава клон с име new_branch
-git checkout new_branch - отива на този клон
+git checkout <new branch> - отива на този клон
 
 git checkout -b new_branch - двете горни команди в едно
 
