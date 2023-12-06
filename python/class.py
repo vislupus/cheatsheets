@@ -79,6 +79,10 @@ print(c.tricks)
 print(isinstance(c, Cat))
 print(issubclass(Cat, Dog))
 
+print(vars(c))
+print(dir(c))
+print(c.__dict__)
+
 del c
 
 
