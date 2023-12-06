@@ -1,3 +1,5 @@
+# https://realpython.com/python-classes/
+
 class Dog:
     def __init__(self, name, breed, age, tired):
         self.Name = name
@@ -36,10 +38,22 @@ class Cat(Dog):
     "This is a cat class"
     play = True
 
-    def __init__(self, name, breed, age, tired, furry, season="summer"):
+    def __init__(self, name, breed, age, tired, furry, season="summer", number=1):
         Dog.__init__(self, name, breed, age, tired)
         self.Furry = furry
         self.Season = season
+        self.number = number
+
+    @property
+    def number(self):
+        return self._number
+
+    @number.setter
+    def number(self, value):
+        if isinstance(value, int):
+            raise ValueError("This is not a number!")
+
+        self._number = value
 
     def __str__(self):
         return f"Name: {self.Name}, Age: {self.Age}"
