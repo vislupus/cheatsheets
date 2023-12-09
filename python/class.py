@@ -1,4 +1,5 @@
-# https://realpython.com/python-classes/
+# https://realpython.com/python-classes/      
+# https://realpython.com/instance-class-and-static-methods-demystified/     
 
 class Dog:
     def __init__(self, name, breed, age, tired):
