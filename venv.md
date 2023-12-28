@@ -61,4 +61,4 @@ pipreqs .\my_tennis_club --savepath=requirements.in && pip-compile
 python -m pip install pigar
 pigar gen -f .\my_tennis_club
 
-`python setup.py sdist`   
+`python setup.py sdist`   (https://stackoverflow.com/questions/15746675/how-to-write-a-python-module-package)   
