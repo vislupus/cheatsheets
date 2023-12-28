@@ -55,6 +55,8 @@ python -m pip install pipreqs
 pipreqs --encoding utf-8 .\my_tennis_club --force --print
 
 python -m pip install pip-tools
+
+`python setup.py sdist`     
 pipreqs .\my_tennis_club --savepath=requirements.in && pip-compile
 
 python -m pip install pigar
