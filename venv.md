@@ -50,6 +50,7 @@ pip list
 
 `pip freeze > requirements.txt`   
 `pip install -r requirements.txt`    
+`python -m pip install -r requirements.txt`    
 
 `python -m pip install pipreqs`    
 `pipreqs --encoding utf-8 .\my_tennis_club --force --print`      
