@@ -67,3 +67,6 @@ https://stackoverflow.com/questions/15746675/how-to-write-a-python-module-packag
 https://www.geeksforgeeks.org/how-to-build-a-python-package/     
 https://www.freecodecamp.org/news/build-your-first-python-package/    
 https://packaging.python.org/en/latest/tutorials/packaging-projects/     
+
+`python -m nuitka main.py --standalone`    
+`python -m nuitka main.py --onefile`     
