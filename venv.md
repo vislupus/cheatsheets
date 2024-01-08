@@ -70,3 +70,4 @@ https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
 `python -m nuitka main.py --standalone`    
 `python -m nuitka main.py --onefile`     
+`python -m nuitka --onefile --windows-icon-from-ico=izzi.ico main.py`    
