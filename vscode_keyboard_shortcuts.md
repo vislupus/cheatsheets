@@ -2,6 +2,8 @@
 [Basic Editing](https://code.visualstudio.com/docs/editor/codebasics)          
 [Key Bindings for Visual Studio Code](https://code.visualstudio.com/docs/getstarted/keybindings)
 
+`Ctrl` + `Alt` + `R` - Send Request with REST Client   
+
 `Shift` + `Alt` + `F` - Format Document  
 `Shift` + `Alt` + `B` - Format Selection (not default)
 
