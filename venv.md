@@ -71,4 +71,4 @@ https://packaging.python.org/en/latest/tutorials/packaging-projects/
 `python -m pip install -U nuitka`     
 `python -m nuitka main.py --standalone`    
 `python -m nuitka main.py --onefile`     
-`python -m nuitka --onefile --windows-icon-from-ico=izzi.ico main.py`    
+`python -m nuitka --mingw64 --onefile --windows-icon-from-ico=izzi.ico main.py`    
