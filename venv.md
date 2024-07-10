@@ -68,6 +68,7 @@ https://www.geeksforgeeks.org/how-to-build-a-python-package/
 https://www.freecodecamp.org/news/build-your-first-python-package/    
 https://packaging.python.org/en/latest/tutorials/packaging-projects/     
 
+`python -m pip install -U nuitka`     
 `python -m nuitka main.py --standalone`    
 `python -m nuitka main.py --onefile`     
 `python -m nuitka --onefile --windows-icon-from-ico=izzi.ico main.py`    
