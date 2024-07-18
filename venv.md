@@ -75,3 +75,4 @@ https://packaging.python.org/en/latest/tutorials/packaging-projects/
 
 `python -m pip install pyinstaller`    
 `pyinstaller main.py --name main_bizzi --onefile --icon izzi.ico`      
+`pyinstaller main.py --name main_bizzi --onefile --icon izzi.ico --clean`  
