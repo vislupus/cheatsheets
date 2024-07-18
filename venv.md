@@ -44,9 +44,9 @@ python -m pip install torch torchvision torchaudio --extra-index-url https://dow
 deactivate
 del venv
 
-dir venv
+`dir venv`     
 
-pip list
+`pip list`     
 
 `pip freeze > requirements.txt`   
 `pip install -r requirements.txt`    
@@ -55,12 +55,12 @@ pip list
 `python -m pip install pipreqs`    
 `pipreqs --encoding utf-8 .\my_tennis_club --force --print`      
 
-python -m pip install pip-tools
+`python -m pip install pip-tools`     
  
-pipreqs .\my_tennis_club --savepath=requirements.in && pip-compile
+`pipreqs .\my_tennis_club --savepath=requirements.in && pip-compile`     
 
-python -m pip install pigar
-pigar gen -f .\my_tennis_club
+`python -m pip install pigar`     
+`pigar gen -f .\my_tennis_club`     
 
 `python setup.py sdist`   
 https://stackoverflow.com/questions/15746675/how-to-write-a-python-module-package   
