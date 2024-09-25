@@ -77,3 +77,4 @@ https://packaging.python.org/en/latest/tutorials/packaging-projects/
 `python -m pip install pyinstaller`    
 `pyinstaller main.py --name main_bizzi --onefile --icon izzi.ico`      
 `pyinstaller main.py --name main_bizzi --onefile --icon izzi.ico --clean`  
+`pyinstaller main.py --noconsole --add-data "assets;assets" --name editor --onefile --icon icons8-edit-48.png --clean --noconfirm`
