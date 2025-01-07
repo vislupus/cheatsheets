@@ -143,3 +143,7 @@ class Test:
 
 test = Test()
 test.bar(3)
+
+
+print(self.__class__.__doc__)
+sudoku._Sudoku__draw_board("value", Sudoku.__list_to_metadata(board_gaps))
