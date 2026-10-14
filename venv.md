@@ -28,8 +28,8 @@
 `python -m pip install hvplot jupyterlab matplotlib seaborn numpy`    
 `python -m pip install matplotlib`   
 
-python -m pip install jupyterlab
-jupyter-lab
+`python -m pip install jupyterlab`   
+`jupyter-lab`
 
 python -m pip install opencv-python
 python -m pip install Pillow
